@@ -499,7 +499,7 @@ const Tips = () => {
     colors = {["#e5e5e5","#a4a4a4"]}
     style = {styles.Hiearchy2}>
   <Text style = {styles.txt}>
-    tip10
+  Reuse or repurpose products that you already have- repurposing an item that is considered single-use can ensure that the materials that go into the product are maximizing their potential and less materials are wasted as less products are bought.
   </Text>
 
   </LinearGradient>
@@ -510,7 +510,7 @@ const Tips = () => {
     colors = {["#e5e5e5","#a4a4a4"]}
     style = {styles.Hiearchy2}>
   <Text style = {styles.txt}>
-    tip2
+  Think before you purchase a new item- it takes a lot of water to manufacture things like tech and clothing items that we often take for granted
   </Text>
 
   </LinearGradient>
@@ -521,7 +521,7 @@ const Tips = () => {
     colors = {["#e5e5e5","#a4a4a4"]}
     style = {styles.Hiearchy2}>
   <Text style = {styles.txt}>
-    tip3
+  Consider buying second-hand items- buying a second-hand t-shirt can save up to 700 gallons of water rather than buying a new one
   </Text>
 
   </LinearGradient>
@@ -532,7 +532,7 @@ const Tips = () => {
     colors = {["#e5e5e5","#a4a4a4"]}
     style = {styles.Hiearchy2}>
   <Text style = {styles.txt}>
-    tip4
+  Buy foods that are less water intensive-beef and other meats typically require more water to produce than their plant counterparts, so purchasing more vegetarian and vegan options can help reduce your water footprint
   </Text>
 
   </LinearGradient>
@@ -543,7 +543,7 @@ const Tips = () => {
     colors = {["#e5e5e5","#a4a4a4"]}
     style = {styles.Hiearchy2}>
   <Text style = {styles.txt}>
-    tip5
+  Donate old clothes and items that would likely end up thrown out- the theme here is to reduce the amount of water used when manufacturing new products as the people who recieve them, don't have to buy new clothes. 
   </Text>
 
   </LinearGradient>
